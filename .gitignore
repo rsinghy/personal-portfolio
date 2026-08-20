@@ -1,2 +1,1 @@
-temp.txt
-.vscode
+# Ignore rules are managed locally in .git/info/exclude
